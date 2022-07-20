@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
+
 **francorinque/francorinque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente soy Frontend Depelover.
+Vivo en Buenos Aires, Argentina.
+Tengo 22 años y
+Tengo conocimientos en HTML, CSS,SASS,JAVASCRIPT.
+Estas son mis redes 👇
+
+LINKEDIN 
+https://www.linkedin.com/in/franco-agustin-rinque
+
+INSTAGRAM  
+https://www.instagram.com/codigofar/
