@@ -1,9 +1,9 @@
 HOLA👋
 
-Actualmente soy Frontend Depelover.
+Actualmente estoy estudiando Programación Web.
 Vivo en Buenos Aires, Argentina.
 Tengo 22 años y
-Tengo conocimientos en HTML, CSS,SASS,JAVASCRIPT.
+Tengo conocimientos en HTML,CSS,SASS,Tailwind css,JAVASCRIPT.
 Estas son mis redes 👇
 
 LINKEDIN 
