@@ -1,4 +1,4 @@
-##HOLA👋
+HOLA👋
 
 Actualmente estoy estudiando Programación Web.
 Vivo en Buenos Aires, Argentina.
