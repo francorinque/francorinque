@@ -1,8 +1,8 @@
-HOLA👋
+##HOLA👋
 
 Actualmente estoy estudiando Programación Web.
 Vivo en Buenos Aires, Argentina.
-Tengo 22 años y
+Tengo 23 años y
 Tengo conocimientos en HTML,CSS,SASS,Tailwind css,JAVASCRIPT.
 Estas son mis redes 👇
 
