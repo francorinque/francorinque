@@ -1,9 +1,8 @@
 HOLA👋
 
-Actualmente estoy estudiando Programación Web.
+Actualmente estoy estudiando Programación Web Fullstack.
 Vivo en Buenos Aires, Argentina.
-Tengo 23 años y
-Tengo conocimientos en HTML,CSS,SASS,Tailwind css,JAVASCRIPT.
+Tengo 23 años.
 Estas son mis redes 👇
 
 LINKEDIN 
