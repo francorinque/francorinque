@@ -22,5 +22,5 @@ Actualmente me dedico a crear proyectos que me permiten avanzar en mi formación
 LINKEDIN 
 https://www.linkedin.com/in/franco-agustin-rinque
 
-INSTAGRAM  
-https://www.instagram.com/codigofar/
+CORREO  
+francoagustinrinquecorreo@gmail.com
