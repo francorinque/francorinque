@@ -7,7 +7,7 @@ Siempre me interesó el diseño grafico, y al descrubrir el diseño web me di cu
 <hr/>
 ¿Qué hago?
 Actualmente creo proyectos con el fin de poder hacer ver mis habilidades mientras voy especializandome en varias tecnologias.
-
+<hr/>
 LINKEDIN 
 https://www.linkedin.com/in/franco-agustin-rinque
 
