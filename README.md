@@ -23,5 +23,5 @@ LINKEDIN:
 https://www.linkedin.com/in/franco-agustin-rinque
 <br/>
 CORREO:
-[correo electrónico](mailto:francoagustinrinquecorreo@gmail.com)
+<a href='mailto:francoagustinrinquecorreo@gmail.com'></a>
 
