@@ -1,4 +1,4 @@
-Hola! mi nombre es Franco Rinque👋
+<h1>Hola! mi nombre es Franco Rinque👋</h1>
 
 <h2>¿Quién soy?</h2>
 <hr/>
