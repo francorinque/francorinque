@@ -19,8 +19,5 @@ Actualmente me dedico a crear proyectos que me permiten avanzar en mi formación
 </ul>
 <hr/>
 <h2>No olvides contactarme!</h2>
-LINKEDIN 
-https://www.linkedin.com/in/franco-agustin-rinque
-
-CORREO  
-francoagustinrinquecorreo@gmail.com
+LINKEDIN  :https://www.linkedin.com/in/franco-agustin-rinque
+CORREO: francoagustinrinquecorreo@gmail.com
