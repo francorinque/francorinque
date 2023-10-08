@@ -1,11 +1,9 @@
 Hola! mi nombre es Franco Rinque👋
 
-¿Quien soy?
+¿Quién soy?
 <hr/>
-Developer Full Stack.
-Vivo en Buenos Aires, Argentina.
-Tengo 23 años.
-Estas son mis redes 👇
+Soy un programador web full stack orientado al diseño <b>Front-end</b>.
+Siempre me interesó el diseño grafico, y al descrubrir el frontend me di cuenta que es lo mio, me encanta crear experiencias visuales completamente atractivas!
 
 LINKEDIN 
 https://www.linkedin.com/in/franco-agustin-rinque
