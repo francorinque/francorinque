@@ -1,13 +1,13 @@
 Hola! mi nombre es Franco Rinque👋
 
-<b>¿Quién soy?<b/>
+¿Quién soy?
 <hr/>
 Soy un programador web full stack con enfoque en el diseño <b>Front-end</b>. Siempre me intereso el diseño gráfico, y al descubrir el diseño web, me di cuenta de que es lo que más me entusiasma.
 <hr/>
-<h2>¿Qué hago?</h2>
+¿Qué hago?
 Actualmente me dedico a crear proyectos que me permiten avanzar en mi formación como programador.
 <hr/>
-<h2>¿Qué tecnologias uso?</h2>
+¿Qué tecnologias uso?
 <ul>
   <li>Javascript</li>
   <li>React.js</li>
@@ -18,7 +18,7 @@ Actualmente me dedico a crear proyectos que me permiten avanzar en mi formación
   <li>GIT</li>
 </ul>
 <hr/>
-<h2>No olvides contactarme!</h2>
+No olvides contactarme!
 LINKEDIN 
 https://www.linkedin.com/in/franco-agustin-rinque
 
