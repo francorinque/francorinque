@@ -1,5 +1,7 @@
-HOLA👋
+Hola! mi nombre es Franco Rinque👋
 
+¿Quien soy?
+<hr/>
 Developer Full Stack.
 Vivo en Buenos Aires, Argentina.
 Tengo 23 años.
