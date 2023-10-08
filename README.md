@@ -1,6 +1,6 @@
 Hola! mi nombre es Franco Rinque👋
 
-<h2>¿Quién soy?</h2>
+<b>¿Quién soy?<b/>
 <hr/>
 Soy un programador web full stack con enfoque en el diseño <b>Front-end</b>. Siempre me intereso el diseño gráfico, y al descubrir el diseño web, me di cuenta de que es lo que más me entusiasma.
 <hr/>
