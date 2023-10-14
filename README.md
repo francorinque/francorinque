@@ -1,27 +1,21 @@
-<h1>Hola! mi nombre es Franco Rinque👋</h1>
+<h1 align="center">Hi 👋, I'm Franco Rinque</h1>
+<h3 align="center">FullStack developer</h3>
 
-<h2>¿Quién soy?</h2>
-<hr/>
-Soy un programador web full stack con enfoque en el diseño <b>Front-end</b>. Siempre me intereso el diseño gráfico, y al descubrir el diseño web, me di cuenta de que es lo que más me entusiasma.
-<hr/>
-<h2>¿Qué hago?</h2>
-Actualmente me dedico a crear proyectos que me permiten avanzar en mi formación como programador.
-<hr/>
-<h2>¿Qué tecnologias uso?</h2>
-<ul>
-  <li>Javascript</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>PostgreSQL</li>
-  <li>Sequelize</li>
-  <li>GIT</li>
-</ul>
-<hr/>
-<h2>No olvides contactarme!</h2>
-LINKEDIN:
-https://www.linkedin.com/in/franco-agustin-rinque
-<br/>
-CORREO:
-francoagustinrinquecorreo@gmail.com
+- 🌱 I’m currently learning **Angular,Tailwindcss,Nextjs**
+
+- 💬 Ask me about **I am a full stack web programmer with a focus on Front-end design. I have always been interested in graphic design, and upon discovering web design, I realized that it is what excites me the most.**
+
+- 📫 How to reach me **francoagustinrinquecorreo@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/francorinque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francorinque" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francorinque&show_icons=true&locale=en" alt="francorinque" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francorinque&" alt="francorinque" /></p>
 
