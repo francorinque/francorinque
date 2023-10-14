@@ -6,6 +6,9 @@
 ### <div align="center">Hello, I am Franco Rinque, a full-stack web programmer with a focus on front-end design. I have always been interested in graphic design, and upon discovering web design, I realized that it is what excites me the most.</div>  
   
 
+
+## About me 
+
 - 🌱 I’m currently learning Angular,Tailwindcss,Nextjs  
   
 
