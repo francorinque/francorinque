@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width:100%" />
 </div>  
 
 # Hello, I am Franco Rinque
