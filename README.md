@@ -71,7 +71,7 @@
 <ul>
   <li>
     Email: <a href="mailto:francorinquecorreo@gmail.com" target="_blank">
-    francorinquecorreo@gmail.com
+    francoagustinrinquecorreo@gmail.com
 </a>
   </li>
   
