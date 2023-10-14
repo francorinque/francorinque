@@ -4,7 +4,7 @@
 
 # Hello, I am Franco Rinque
 
-<div align="center">full-stack web programmer with a focus on front-end design. I have always been interested in graphic design, and upon discovering web design, I realized that it is what excites me the most.</div>  
+<div align="center">full-stack web programmer with a focus on <b>front-end</b> design. I have always been interested in graphic design, and upon discovering web design, I realized that it is what excites me the most.</div>  
   
 
 
