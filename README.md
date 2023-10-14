@@ -67,19 +67,18 @@
 
 
 ## Connect with me  
-<div align="center">
-<div>Email:</div>
-<a href="mailto:francorinquecorreo@gmail.com" target="_blank">
-francorinquecorreo@gmail.com
+
+<ul>
+  <li>
+    Email: <a href="mailto:francorinquecorreo@gmail.com" target="_blank">
+    francorinquecorreo@gmail.com
 </a>
+  </li>
   
-<div>Linkedin:</div> 
+   <li>
+   Linkedin:
 <a href="https://linkedin.com/in/francorinque" target="_blank">
 francorinque
 </a>  
-</div>  
-  
-
-<br/>  
-
-
+  </li>
+</ul>
