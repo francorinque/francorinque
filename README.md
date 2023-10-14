@@ -10,14 +10,9 @@
 
 ## About me 
 
-- 🌱 I’m currently learning Angular,Tailwindcss,Nextjs  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-- 📫 How to reach me francoagustinrinquecorreo@gmail.com  
-  
+- I’m currently learning Angular,Tailwindcss,Nextjs.  
+- In my free time I like to train.  
+- I like to be in constant learning
 
 <br/>  
 
