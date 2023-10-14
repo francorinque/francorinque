@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">Hello, I am Franco Rinque, a full-stack web programmer with a focus on front-end design. I have always been interested in graphic design, and upon discovering web design, I realized that it is what excites me the most.</div>  
+# Hello, I am Franco Rinque
+
+ <div align="center">full-stack web programmer with a focus on front-end design. I have always been interested in graphic design, and upon discovering web design, I realized that it is what excites me the most.</div>  
   
 
 
