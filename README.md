@@ -68,11 +68,14 @@
 
 ## Connect with me  
 <div align="center">
+<div>Email:</div>
 <a href="mailto:francorinquecorreo@gmail.com" target="_blank">
-<img src=[https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1200px-Logo_Gmail_%282015-2020%29.svg.png)  style="margin-bottom: 5px;" />
+francorinquecorreo@gmail.com
 </a>
+  
+<div>Linkedin:</div> 
 <a href="https://linkedin.com/in/francorinque" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+francorinque
 </a>  
 </div>  
   
