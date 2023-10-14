@@ -78,7 +78,7 @@
    <li>
    Linkedin:
 <a href="https://linkedin.com/in/francorinque" target="_blank">
-francorinque
+https://www.linkedin.com/francorinque/
 </a>  
   </li>
 </ul>
