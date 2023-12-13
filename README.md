@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://res.cloudinary.com/dgdcfmnnx/image/upload/v1700601078/xgi66yjh9pbphsblfuva.jpg" align="center" style="width:100%" />
+<img src="https://res.cloudinary.com/dgdcfmnnx/image/upload/v1702495585/wjzlh5kp6dgxzttuewka.jpg" align="center" style="width:100%" />
 </div>  
 
 # Hello, I am Franco Rinque
