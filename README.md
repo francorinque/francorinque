@@ -4,7 +4,7 @@
 
 # Hello, I am Franco Rinque
 
-<div align="center">Full Stack web programmer.</div>  
+<div>Full Stack web programmer.</div>  
   
 
 
