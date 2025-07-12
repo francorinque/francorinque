@@ -10,7 +10,7 @@
 
 ## About me 
 
-- I’m currently learning Python,Astro,Nextjs.  
+- I’m currently learning Angular.  
 - In my free time I like to train.  
 - I like to be in constant learning
 
