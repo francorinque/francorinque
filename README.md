@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://res.cloudinary.com/dgdcfmnnx/image/upload/v1702495585/wjzlh5kp6dgxzttuewka.jpg" align="center" style="width:100%" />
-</div>  
-
 # Hello, I am Franco Rinque
 
-<div>Full Stack web programmer.</div>  
+<div>Frontend developer.</div>  
   
 
 
