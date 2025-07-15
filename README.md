@@ -68,7 +68,7 @@
   
    <li>
    Linkedin:
-<a href="https://linkedin.com/in/francorinque" target="_blank">
+<a href="https://www.linkedin.com/in/franco-agustin-rinque/" target="_blank">
 https://www.linkedin.com/francorinque/
 </a>  
   </li>
