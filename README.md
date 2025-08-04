@@ -2,20 +2,13 @@
   
 
 - In my free time I like to train. 🏃‍♂️  
-  
-
 - I like to be in constant learning 🚀  
-  
-
 - Always detailed with my designs👁️  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -83,9 +76,8 @@
 
 ## Connect with me  
 - Email: francoagustinrinquecorreo@gmail.com  
-  
 
-- Linkedin: https://www.linkedin.com/francorinque/  
+- Linkedin: https://www.linkedin.com/in/franco-agustin-rinque/  
   
 
 <br/>  
