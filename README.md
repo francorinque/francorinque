@@ -1,4 +1,4 @@
-### <div align="center">hola, soy Franco Rinque. Desarrollador de software con más de 3 años de experiencia, enfocado en frontend👨‍💻 </div>  
+### <div align="center">Hola, soy Franco Rinque. Desarrollador de software con más de 3 años de experiencia, enfocado en frontend👨‍💻 </div>  
   
 
 - En mis tiempos libre entreno. 🏃‍♂️  
