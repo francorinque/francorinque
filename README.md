@@ -1,13 +1,14 @@
-### <div align="center">I am Franco Rinque, Frontend Developer 👨‍💻 </div>  
+### <div align="center">hola, soy Franco Rinque. Desarrollador de software con más de 3 años de experiencia, enfocado en frontend👨‍💻 </div>  
   
 
-- In my free time I like to train. 🏃‍♂️  
-- I like to be in constant learning 🚀  
-- Always detailed with my designs👁️  
+- En mis tiempos libre entreno. 🏃‍♂️  
+- Me gusta estar en constante aprendizaje.🚀  
+- Soy muy detaillista con mis diseños.👁️
+- Actualmente estoy aprendiendo sobre IA, ingles y Angular.
   
 <br/>  
 
-## My Skill Set  
+## Mis skills  
 <table><tr><td valign="top" width="33%">
 
 
