@@ -4,7 +4,7 @@
 - En mis tiempos libre entreno. 🏃‍♂️  
 - Me gusta estar en constante aprendizaje.🚀  
 - Soy muy detaillista con mis diseños.👁️
-- Actualmente estoy aprendiendo sobre IA, ingles y Angular.
+- Actualmente estoy perfeccionando mi inglés y profundizando mis conocimientos en arquitecturas de software, patrones de diseño y el uso de inteligencia artificial como herramienta para potenciar el desarrollo web.
   
 <br/>  
 
