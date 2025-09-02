@@ -1,4 +1,4 @@
-### <div align="center">Hola, soy Franco Rinque. Desarrollador  frontend👨‍💻 </div>  
+### <div align="center">Hola, soy Franco Rinque. Desarrollador  Frontend👨‍💻 </div>  
   
 
 - En mis tiempos libre entreno. 🏃‍♂️  
