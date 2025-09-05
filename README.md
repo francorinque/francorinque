@@ -1,10 +1,13 @@
-### <div align="center">Hola, soy Franco Rinque. Desarrollador  Frontend👨‍💻 </div>  
-  
+<div align="center">Hola, soy Franco Rinque. Desarrollador Frontend 🚀</div>
+<br/>
 
-- En mis tiempos libre entreno. 🏃‍♂️  
-- Me gusta estar en constante aprendizaje.🚀  
-- Soy muy detaillista con mis diseños.👁️
-- Actualmente estoy perfeccionando mi inglés y profundizando mis conocimientos en arquitecturas de software, patrones de diseño y el uso de inteligencia artificial como herramienta para potenciar el desarrollo web.
+Especializado en la creación de interfaces de usuario modernas y eficientes con React, TypeScript y Tailwind CSS.
+
+Actualmente, profundizo mis conocimientos en arquitecturas de software, patrones de diseño y el uso de inteligencia artificial como herramienta de desarrollo.
+
+Comprometido con las buenas prácticas de código, la calidad de los diseños y el aprendizaje continuo.
+
+Busco siempre resolver problemas de forma proactiva y colaborar en proyectos que generen un impacto positivo.
   
 <br/>  
 
