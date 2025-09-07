@@ -1,7 +1,7 @@
-<div align="center">Hola, soy Franco Rinque. Desarrollador Frontend 🚀</div>
+<div >Hola, soy Franco Rinque. Desarrollador Frontend 🚀</div>
 <br/>
 
-<div align="center">
+<div >
   
 Especializado en la creación de interfaces de usuario modernas y eficientes con React, TypeScript y Tailwind CSS.
 
