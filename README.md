@@ -1,15 +1,15 @@
-<div >Hola, soy Franco Rinque. Desarrollador Full Stack enfocado en Frontend 🚀</div>
+<div >Hola, soy Franco Rinque 🚀</div>
 <br/>
 
 <div >
   
-Especializado en la creación de interfaces de usuario modernas y eficientes con React, TypeScript y Tailwind CSS.
+Especializado en el desarrollo Full Stack, abarcando la creación de interfaces de usuario modernas y eficientes con React, TypeScript y Tailwind CSS, y la implementación de lógica de servidor robusta con Node.js y Express. Poseo experiencia en la gestión de bases de datos, incluyendo MongoDB y PostgreSQL.
 
-Actualmente, profundizo mis conocimientos en arquitecturas de software, patrones de diseño y el uso de inteligencia artificial como herramienta de desarrollo.
+Actualmente, profundizo mis conocimientos en arquitecturas de software, patrones de diseño y el uso de Inteligencia Artificial como herramienta para optimizar el proceso de desarrollo.
 
-Comprometido con las buenas prácticas de código, la calidad de los diseños y el aprendizaje continuo.
+Comprometido con las buenas prácticas de código, la calidad de los diseños y el aprendizaje continuo. Busco siempre resolver problemas de forma proactiva y colaborar en proyectos que generen un impacto positivo.
 
-Busco siempre resolver problemas de forma proactiva y colaborar en proyectos que generen un impacto positivo.
+
 </div>
   
 <br/>  
