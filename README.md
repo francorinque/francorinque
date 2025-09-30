@@ -1,4 +1,4 @@
-<div >Hola, soy Franco Rinque. Desarrollador Frontend 🚀</div>
+<div >Hola, soy Franco Rinque. Desarrollador Full Stack enfocado en Frontend 🚀</div>
 <br/>
 
 <div >
